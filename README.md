@@ -1,9 +1,9 @@
-#Top_100_Spotify_Playlist_Creator
+# Top_100_Spotify_Playlist_Creator
 
-##Documentation
+## Documentation
 Read full spotipy module documentation here https://spotipy.readthedocs.io/en/2.22.1/.
 
-##Installation
+## Installation
 
 1.) Install the Spotipy and requests library.
 `pip install spotipy`
