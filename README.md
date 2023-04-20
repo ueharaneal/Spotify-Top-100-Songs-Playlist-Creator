@@ -13,7 +13,7 @@ Read full spotipy module documentation here https://spotipy.readthedocs.io/en/2.
 
 3.) Create an app at the dashboard "https://developer.spotify.com/dashboard"
 
-4.) Fill in "http://example.com" in the redirect URI
+4.) Fill in "http://example.com" in the redirect URI.
 <img width="1505" alt="Screenshot 2023-04-19 at 6 32 47 PM" src="https://user-images.githubusercontent.com/79432460/233270681-f7912183-a0b5-4386-99fc-fc45ea91cca8.png">
 
 5.) Go to settings and save Client ID and Client Secret. 
