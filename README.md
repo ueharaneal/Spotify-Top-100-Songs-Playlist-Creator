@@ -23,10 +23,12 @@ Read full spotipy module documentation here https://spotipy.readthedocs.io/en/2.
 
 ## How to Use.
 1.)Input a date.
+
 <img width="1044" alt="Screenshot 2023-04-19 at 10 58 00 PM" src="https://user-images.githubusercontent.com/79432460/233271880-d498cfff-857f-497a-b37c-2cf8d1f8a6bc.png">
 
 2.)The program will then create a playlist of the top 100 songs of the user input.
 Have the spotify website/app open and the playlist will be created.
+
 <img width="931" alt="Screenshot 2023-04-19 at 11 00 33 PM" src="https://user-images.githubusercontent.com/79432460/233271884-9da3de41-a781-49d3-91c4-51fefbc15b53.png">
 
 
