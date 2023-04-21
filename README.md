@@ -37,5 +37,6 @@ Have the spotify website/app open and the playlist will be created.
 - Python 
 - BS4(Web Scraping)
 - Requests library (API)
+- Spotipy library
 
 
