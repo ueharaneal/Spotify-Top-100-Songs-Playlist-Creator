@@ -32,6 +32,10 @@ Have the spotify website/app open and the playlist will be created.
 <img width="931" alt="Screenshot 2023-04-19 at 11 00 33 PM" src="https://user-images.githubusercontent.com/79432460/233271884-9da3de41-a781-49d3-91c4-51fefbc15b53.png">
 
 
+## Technology and Tools Used
 
+1.) Python 
+2.) BS4(Web Scraping)
+3.) Requests library (API)
 
 
