@@ -34,8 +34,8 @@ Have the spotify website/app open and the playlist will be created.
 
 ## Technology and Tools Used
 
-1.) Python 
-2.) BS4(Web Scraping)
-3.) Requests library (API)
+- Python 
+- BS4(Web Scraping)
+- Requests library (API)
 
 
