@@ -19,7 +19,7 @@ Read full spotipy module documentation here https://spotipy.readthedocs.io/en/2.
 5.) Go to settings and save Client ID and Client Secret. 
 <img width="1512" alt="Screenshot 2023-04-19 at 6 37 58 PM" src="https://user-images.githubusercontent.com/79432460/233270689-604018f0-c9a7-4daa-9a6a-8d6b947efb5d.png">
 
-6.) Input Client ID and Client Secret into the code.
+6.) Input Client ID and Client Secret into the code.(Do not change Redirect_Url = "example.com"
 
 ## How to Use.
 1.)Input a date.
