@@ -1,5 +1,5 @@
 # Top_100_Spotify_Playlist_Creator
-
+This program will create a Spotify playlist in your account, of the top 100 songs of the date of your choice. 
 ## Documentation
 Read full spotipy module documentation here https://spotipy.readthedocs.io/en/2.22.1/.
 
